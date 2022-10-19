@@ -1,0 +1,7 @@
+{
+  "name": "Suma2Numeros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
